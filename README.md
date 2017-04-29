@@ -1,5 +1,7 @@
 # jstransformer-pupa
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-pupa.svg)](https://greenkeeper.io/)
+
 [pupa](https://github.com/sindresorhus/pupa) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-pupa/master.svg)](https://travis-ci.org/jstransformers/jstransformer-pupa)
