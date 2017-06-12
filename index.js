@@ -1,12 +1,12 @@
 'use strict'
 
-var pupa = require('pupa')
-var extend = require('extend-shallow')
+const pupa = require('pupa')
+const extend = require('extend-shallow')
 
 exports.name = 'pupa'
 exports.outputFormat = 'html'
 
 exports.render = function (str, options, locals) {
-  var data = extend({}, options, locals)
+  const data = extend({}, options, locals)
   return pupa(str, data)
 }
