@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var pupa = require('jstransformer')(require('jstransformer-pupa'));
+var pupa = require('jstransformer')(require('jstransformer-pupa'))
 
 pupa.render('Hello, {name}!', {name: 'World'}).body
 //=> 'Hello, World!'
