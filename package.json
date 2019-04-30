@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "extend-shallow": "^3.0.2",
-    "pupa": "^1.0.0"
+    "pupa": "^2.0.0"
   },
   "name": "jstransformer-pupa",
   "version": "0.1.0",
